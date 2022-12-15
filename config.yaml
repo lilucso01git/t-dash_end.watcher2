@@ -1,0 +1,3 @@
+chat_url : https://notify-api.line.me/api/notify
+access_token: {あなたのアクセストークン}
+target_path: C:\Users\{ユーザー名}\AppData\Local\Programs\T-DASH\projects\
